@@ -1,12 +1,14 @@
 # CoBRA Task V2
 Competitive Behavioral assessment of Rivalry and Admiration (CoBRA) task – version 2
 
+NOTE: Version 1 of the same task can be found at: https://github.com/aszucs/cobra_task_v1.
+
 ## Short description
 The CoBRA task is a social decision-making task designed to behaviorally capture narcissistic reactions to defeat, namely narcissistic rivalry and admiration-seeking, in a computer game competition where the outcomes are rigged. Players are told they will play against previous participants whose performance has been recorded and that they will take part in the competition’s global ranking.
 
 For a detailed description of the task, see the following article and its supplement (for any questions regarding the task, please contact the corresponding author, Anna Szücs):
 
-➔ Szücs A, Wright AG, Edershile EA, Dombrovski AY, Rivalry and admiration-seeking in a social competition: from traits to behaviors through contextual cues. Accepted by Personality Disorders: Theory, Research, and Treatment.
+➔ Szücs A, Wright AG, Edershile EA, Dombrovski AY, Rivalry and admiration-seeking in a social competition: from traits to behaviors through contextual cues. Published in Personality Disorders: Theory, Research, and Treatment. https://doi.org/10.1037/per0000610
 
 Competitive behaviors are captured using 2 distinct outcome measures:
 
@@ -23,9 +25,9 @@ Please, note that this game is designed to work on Windows computers and tablets
 [1]	Download the content of this repository (e.g., as a zip file, top right option) and decompress the resulting .zip file *cobra_task_v2-6-main.zip* in a location of your choice.
 Warning: Do not put its content into MATLAB’s folder; anywhere else is fine.
 
-[2]	Open the resulting *cobra_task_v1-main* folder (created when decompressing the zip file).
+[2]	Open the resulting *cobra_task_v2-main* folder (created when decompressing the zip file).
 
-[3]	Carefully read the user manual *cobra_task_v1_manual.pdf* before launching the task.
+[3]	Carefully read the user manual *cobra_task_v2_manual.pdf* before launching the task.
 
 [4]	To run the task, open the file *main_game_launcher.m* with MATLAB (right click -> Open with -> MATLAB), and simply click “run” from the MATLAB editor window (green arrowhead in the upper menu). If prompted by MATLAB, select the "Change Folder" option.
 
