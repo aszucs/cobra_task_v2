@@ -8,7 +8,7 @@ The CoBRA task is a social decision-making task designed to behaviorally capture
 
 For a detailed description of the task, see the following article and its supplement (for any questions regarding the task, please contact the corresponding author, Anna Szücs):
 
-➔ Szücs A, Wright AG, Edershile EA, Dombrovski AY, Rivalry and admiration-seeking in a social competition: from traits to behaviors through contextual cues. Published in Personality Disorders: Theory, Research, and Treatment. https://doi.org/10.1037/per0000610
+➔ Szücs A, Wright AG, Edershile EA, Dombrovski AY, Rivalry and admiration-seeking in a social competition: from traits to behaviors through contextual cues. Published in Personality Disorders: Theory, Research, and Treatment. https://doi.org/10.1037/per0000610 (for open access, follow this link: https://pmc.ncbi.nlm.nih.gov/articles/PMC10313745/)
 
 Competitive behaviors are captured using 2 distinct outcome measures:
 
